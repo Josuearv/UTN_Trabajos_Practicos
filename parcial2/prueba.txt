@@ -1,0 +1,20 @@
+Mutante:
+
+adn_mutan= [
+    'TACGCT',
+    'AAGCAC',
+    'AGATCG',
+    'GAACGC',
+    'CCATTC',
+    'AAAATC'
+]
+
+HUmano:
+adn_humano = [
+    'TACGCT',
+    'AACCAC',
+    'AGATTG',
+    'GAACGC',
+    'CCATTC',
+    'AAtATC'
+]
